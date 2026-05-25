@@ -1,0 +1,14 @@
+<script src="funciones.js"></script>
+<script>
+
+peso=parseFloat(prompt("ingrese su peso:"))
+altura=parseFloat(prompt("ingrese su altura:"))
+
+imc=calcularMasaCorporal(peso,altura)
+estado=obtenerEstado(imc)
+
+document.writeln("inc: "+imc)
+document.writeln("estado: "+estado)
+</script>
+
+
