@@ -1,0 +1,24 @@
+body{
+    background-color: red;
+}
+
+.div-peso{
+   color: blanchedalmond;
+   background-color: beige;
+}
+
+.div-altura{
+    color: cadetblue;
+    background-color: aquamarine;
+}
+
+.div-estado{
+    color: brown;
+    background-color: burlywood;
+}
+
+.div-imc{
+    color: bisque;
+    background-color: aliceblue;
+}
+
